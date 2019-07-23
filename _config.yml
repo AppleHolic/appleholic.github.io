@@ -6,7 +6,7 @@ language: 'en-us'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /
 
 # Website info
 title: Appleholic
@@ -15,7 +15,7 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://appleholic.github.io/jasper2/
+production_url: https://appleholic.github.io/
 source_url: https://github.com/AppleHolic/appleholic.github.io
 CNAME: #add cname for website to be created
 
@@ -70,10 +70,10 @@ safe: False
 lsi: False
 username: Appleholic
 repo: appleholic.github.io
-branch: master
+branch: source
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
-production_url:  https://appleholic.github.io/jasper2/
+production_url:  https://appleholic.github.io/
 source_url:  https://github.com/AppleHolic/appleholic.github.io
 
 exclude:
