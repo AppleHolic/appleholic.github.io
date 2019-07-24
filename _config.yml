@@ -10,7 +10,7 @@ baseurl: /
 
 # Website info
 title: Appleholic
-description: The professional publishing platform
+description: Love programming, music.
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
@@ -25,6 +25,7 @@ subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 facebook: thinkchoi # replace by your username
+linkedin: choiilji
 
 # Disqus
 disqus: False
